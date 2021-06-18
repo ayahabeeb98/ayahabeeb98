@@ -5,9 +5,9 @@
 
 
 ## ⚡ Languages and Tools:
-    #HTML5 #CSS3 #SCSS #JS #Bootstrap #Firebase #Postman #Git
+    #HTML5 #CSS3 #SCSS #JS #Bootstrap #Firebase #Postman #Git #React
 
-#### 🔥 I’m currently learning 'ReactJS'.
+#### 🔥 I’m currently learning 'VueJS'.
 #### 🎯 I'm Seeking a challenging environment where I can gain more experience, utilize my passion for knowledge.
 
 #
