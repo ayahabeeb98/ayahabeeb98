@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Aya Habeeb! 
 
-#### A passionate front-end developer from Palestine. I love to learn new things every day and to keep up with new technologies.
-
-
+#### A passionate front-end developer from Palestine, living in Gaza Strip.
 
 ## ⚡ Languages and Tools:
-    #HTML5 #CSS3 #SCSS #JS #Bootstrap #Firebase #Postman #Git #React
+    #HTML5 #CSS3 #SCSS #JS #Bootstrap #Firebase #Postman #Git #React #styled-component
 
 #### 🔥 I’m currently learning 'VueJS'.
 #### 🎯 I'm Seeking a challenging environment where I can gain more experience, utilize my passion for knowledge.
